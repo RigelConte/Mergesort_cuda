@@ -1,3 +1,5 @@
 Rigel Conte - 2024
 
-A Simple examle using a CUDA parallellism feature to calculate a MergeSort algorithm.
+A Simple example using a CUDA parallelism feature to calculate a Merge Sort algorithm.
+
+Requires NSIGHT for Windows and NVIDIA / CUDA Toolkit installed on your PC
